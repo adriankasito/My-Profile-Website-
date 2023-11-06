@@ -1,0 +1,11 @@
++ browserslist@4.22.1
++ @babel/core@7.23.0
++ @babel/core@7.23.0
++ typescript@5.2.2
+added 38 packages from 50 contributors, removed 1 package, updated 6 packages and audited 2310 packages in 70.726s
+
+110 packages are looking for funding
+  run `npm fund` for details
+
+found 198 vulnerabilities (2 low, 85 moderate, 106 high, 5 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details

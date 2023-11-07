@@ -21,6 +21,6 @@
     npm install
     ```
 - Now, the project is ready to use.
-- You can check it using `npm start`, it will open the website locally on your browser.
+- You can check it using `npm start`, it will open the website locally on your browser, just navigate to the link.
 
 # My-Profile-Website-

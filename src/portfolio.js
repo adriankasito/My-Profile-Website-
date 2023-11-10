@@ -64,7 +64,7 @@ const skills = {
         "🎯 Experience with natural language processing (NLP), using machine learning techniques to extract meaning from text and solve real-world problems. 💬🤖🧠",
         "🎯 Expertise in machine learning (ML), training and deploying machine learning models to solve predictive and classification problems. 🤖🧠🦾",
         "🎯 Strong knowledge of deep learning (DL), training and deploying deep learning models to solve complex problems, such as image recognition and natural language processing. 🧠🤖🌌",
-        ],
+      ],
       softwareSkills: [
         {
           skillName: "Tensorflow",
@@ -105,8 +105,6 @@ const skills = {
         },
       ],
     },
-    
-    
   ],
 };
 
@@ -148,8 +146,8 @@ const projectcards = {
           color: "#3c0095",
         },
       ],
-      link: "https://teath.herokuapp.com ",
-      code: "https://github.com/rohankokkula/TEATH",
+      link: " ",
+      code: "https://github.com/adriankasito",
       linkcolor: "white",
     },
 
@@ -211,8 +209,8 @@ const projectcards = {
           color: "#3c0095",
         },
       ],
-      link: "https://neuralviz.herokuapp.com/",
-      code: "https://github.com/rohankokkula/neuralviz",
+      link: "",
+      code: "https://github.com/adriankasito",
       linkcolor: "white",
     },
     {
@@ -277,8 +275,8 @@ const projectcards = {
           color: "#051c61",
         },
       ],
-      link: "https://newsearcher.herokuapp.com/",
-      code: "https://github.com/rohankokkula/Newsearcher",
+      link: "",
+      code: "https://github.com/adriankasito",
       linkcolor: "white",
     },
     {
@@ -304,8 +302,8 @@ const projectcards = {
           color: "#3c0095",
         },
       ],
-      link: "https://www.youtube.com/watch?v=2vk9lQuX_1Q",
-      code: "https://github.com/rohankokkula/Actiweight",
+      link: "",
+      code: "https://github.com/adriankasito",
       linkcolor: "white",
     },
   ],
@@ -570,14 +568,13 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
- 
+
   {
     name: "Gmail",
     link: "mailto:adriankc910@gmail.com ",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
- 
 ];
 
 export {
